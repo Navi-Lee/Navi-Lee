@@ -1,7 +1,4 @@
-## Hi there 👋
-Software Engineering freshman from Taiyuan University of Technology（太原理工大学）
-React.dev Contributor | Saving millions of people's time by fixing one 'key' at a time. 🚀
-www.NaviLee.com
+https://readme-typing-svg.herokuapp.com/demo/?color=2EF757&lines=Hi+there+%F0%9F%91%8B;My+name+is+Navi+Lee.;A+Software+Engineering+freshman+from+Taiyuan+University+of+Technology.%EF%BC%88%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%89;React.dev+Contributor+%7C+Saving+millions+of+people's+time+by+fixing+one+'key'+at+a+time.+%F0%9F%9A%80;www.NaviLee.com
 
 
 
