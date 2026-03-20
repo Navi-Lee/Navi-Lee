@@ -1,4 +1,9 @@
 ## Hi there 👋
+Software Engineering freshman from Taiyuan University of Technology（太原理工大学）
+React.dev Contributor | Saving millions of people's time by fixing one 'key' at a time. 🚀
+www.NaviLee.com
+
+
 
 <!--
 **Navi-Lee/Navi-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
