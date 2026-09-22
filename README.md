@@ -4,4 +4,6 @@
 
 ### Open Source
 
-Contributed to [React中文文档](https://github.com/reactjs/zh-hans.react.dev) · [PR #1903](https://github.com/reactjs/zh-hans.react.dev/pull/1903) ✓ Merged
+Contributed to [React.dev](https://github.com/reactjs/zh-hans.react.dev) · [PR #1903](https://github.com/reactjs/zh-hans.react.dev/pull/1903) ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat), etc.
+
+Building and maintaining my own open-source projects.
