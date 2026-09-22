@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=2EF757&multiline=true&repeat=false&width=800&height=60&lines=Hi+there+%F0%9F%91%8B;My+name+is+Navi+Lee.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7F717&multiline=true&repeat=false&width=800&height=60&lines=A+Software+Engineering+sophomore;from+Taiyuan+University+of+Technology.%EF%BC%88%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%89)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7240D&multiline=true&repeat=false&width=800&height=60&lines=React.dev+contributor;www.navilee.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7F717&multiline=true&repeat=false&width=800&height=60&lines=Software+Engineering+sophomore;at+Taiyuan+University+of+Technology.%EF%BC%88%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7240D&multiline=true&repeat=false&width=800&height=60&lines=Full-stack+and+AI+developer;www.navilee.com)](https://git.io/typing-svg)
 
 ### Open Source
 
-Contributed to [React.dev](https://github.com/reactjs/zh-hans.react.dev) · [PR #1903](https://github.com/reactjs/zh-hans.react.dev/pull/1903) ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat), etc.
+Contributed to [React.dev](https://github.com/reactjs/zh-hans.react.dev) · [PR #1903](https://github.com/reactjs/zh-hans.react.dev/pull/1903) ![Merged](https://img.shields.io/badge/Merged-8957e5?style=flat), etc...
 
-Building and maintaining my own open-source projects.
+And building and maintaining my own open-source projects.
