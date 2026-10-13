@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=2EF757&multiline=true&repeat=false&width=800&height=60&lines=Hi+there+%F0%9F%91%8B;My+name+is+Navi+Lee.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7F717&multiline=true&repeat=false&width=800&height=60&lines=Software+Engineering+sophomore;at+Taiyuan+University+of+Technology.%EF%BC%88%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=30A8D0&multiline=true&repeat=false&width=800&height=60&lines=Software+Engineering+sophomore;at+Taiyuan+University+of+Technology.%EF%BC%88%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6%EF%BC%89)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&color=F7240D&multiline=true&repeat=false&width=800&height=60&lines=Full-stack+and+AI+developer;www.navilee.com)](https://git.io/typing-svg)
 
 ### Open Source
